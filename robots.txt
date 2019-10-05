@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iechughaiw.massillon.xyz/sitemap.xml
